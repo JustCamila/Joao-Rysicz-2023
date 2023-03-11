@@ -1,0 +1,35 @@
+body {
+	background: #d1dfff;
+}
+ 
+ h1 {
+ 	font-size: 65px;
+ 	text-align: center;
+ 	color: #361d50;
+ }
+
+h2 {
+	font-size: 30px ;
+	color: #170e20;
+    text-align: left;
+}
+h3 {
+	font-size: 30px ;
+	color: #170e20;
+    text-align: right;
+}
+
+p {
+	text-align: left;
+	font-size: 22px
+}
+
+.constelações {
+    padding-right: 800px;
+    padding-left: 50px;
+}
+
+.estrelas {
+    padding-right: 50px;
+    padding-left: 800px;
+}
