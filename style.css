@@ -18,18 +18,23 @@ h1 {
  
 
 h2 {
-	font-size: 30px ;
+	font-size: 40px ;
+	padding-top: 2% ;
 	color: #170e20;
     text-align: left;
+	font-family: 'Roboto', sans-serif;
+	padding-left: 3%;
 }
 h3 {
-	font-size: 30px ;
+	font-size: 40px ;
 	color: #170e20;
     text-align: right;
+	font-family: 'Roboto', sans-serif;
 }
 
 p {
-	font-size: 22px
+	font-size: 35px
+
 }
 
 .icon {
@@ -38,15 +43,20 @@ padding-left: 25px;
 }
 
 .constelações {
-    padding-right: 800px;
-    padding-left: 50px;
+	padding-left: 3%;
 	font-family: 'Roboto', sans-serif;
-	text-align: left;
+	display: flex;
+	justify-content: center;
 }
 
 .estrelas {
-    padding-right: 50px;
-    padding-left: 800px;
 	font-family: 'Roboto', sans-serif;
 	text-align: right;
+}
+
+.imgconst {
+	width: 39%;
+	padding-right: 10%;
+	padding-left: 5%;
+	padding-bottom: 2%;
 }
